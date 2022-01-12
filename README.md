@@ -7,11 +7,6 @@ Aqui você encontrará os exercícios resolvidos por mim. Saliento que a resolu�
 
 Curso ainda em andamento, será atualizado conforme avanço nas semanas e linguagens propostas pelo curso.
 
-
-
-◻️ Semana 0 - Scratch
-
-      ▫️ Watermelon Game
       
 ◻️ Semana 1 - C
 
